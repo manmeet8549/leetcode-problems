@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/manmeet8549/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
