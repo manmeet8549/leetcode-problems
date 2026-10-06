@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/manmeet8549/leetcode-problems/tree/master/0495-teemo-attacking) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/manmeet8549/leetcode-problems/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
