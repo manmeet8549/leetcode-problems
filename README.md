@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/manmeet8549/leetcode-problems/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manmeet8549/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/manmeet8549/leetcode-problems/tree/master/0495-teemo-attacking) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
