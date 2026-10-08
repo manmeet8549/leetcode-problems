@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/manmeet8549/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/manmeet8549/leetcode-problems/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/manmeet8549/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manmeet8549/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0500-keyboard-row](https://github.com/manmeet8549/leetcode-problems/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/manmeet8549/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/manmeet8549/leetcode-problems/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
