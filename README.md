@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manmeet8549/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/manmeet8549/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manmeet8549/leetcode-problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/manmeet8549/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/manmeet8549/leetcode-problems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
