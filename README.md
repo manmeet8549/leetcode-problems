@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/manmeet8549/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manmeet8549/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/manmeet8549/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/manmeet8549/leetcode-problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/manmeet8549/leetcode-problems/tree/master/0605-can-place-flowers) |
 ## Quicksort
 |  |
 | ------- |
