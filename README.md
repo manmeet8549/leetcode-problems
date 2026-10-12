@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/manmeet8549/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/manmeet8549/leetcode-problems/tree/master/0661-image-smoother) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/manmeet8549/leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/manmeet8549/leetcode-problems/tree/master/0661-image-smoother) |
 ## Greedy
 |  |
 | ------- |
