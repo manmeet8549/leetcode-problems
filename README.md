@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/manmeet8549/leetcode-problems/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/manmeet8549/leetcode-problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/manmeet8549/leetcode-problems/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manmeet8549/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/manmeet8549/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/manmeet8549/leetcode-problems/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -188,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/manmeet8549/leetcode-problems/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/manmeet8549/leetcode-problems/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/manmeet8549/leetcode-problems/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/manmeet8549/leetcode-problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
