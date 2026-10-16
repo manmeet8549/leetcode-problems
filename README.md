@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/manmeet8549/leetcode-problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/manmeet8549/leetcode-problems/tree/master/0705-design-hashset) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/manmeet8549/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/manmeet8549/leetcode-problems/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
