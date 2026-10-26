@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/manmeet8549/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manmeet8549/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/manmeet8549/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/manmeet8549/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/manmeet8549/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manmeet8549/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manmeet8549/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/manmeet8549/leetcode-problems/tree/master/0682-baseball-game) |
 ## Monotonic Stack
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/manmeet8549/leetcode-problems/tree/master/0724-find-pivot-index) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manmeet8549/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
