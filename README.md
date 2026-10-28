@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manmeet8549/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manmeet8549/leetcode-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manmeet8549/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/manmeet8549/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manmeet8549/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manmeet8549/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manmeet8549/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
