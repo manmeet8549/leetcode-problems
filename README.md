@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manmeet8549/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/manmeet8549/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/manmeet8549/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manmeet8549/leetcode-problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manmeet8549/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0598-range-addition-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/manmeet8549/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/manmeet8549/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/manmeet8549/leetcode-problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
