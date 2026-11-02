@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/manmeet8549/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manmeet8549/leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/manmeet8549/leetcode-problems/tree/master/0766-toeplitz-matrix) |
+| [0821-shortest-distance-to-a-character](https://github.com/manmeet8549/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/manmeet8549/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/manmeet8549/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/manmeet8549/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manmeet8549/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/manmeet8549/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/manmeet8549/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0821-shortest-distance-to-a-character](https://github.com/manmeet8549/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 ## Trie
 |  |
 | ------- |
