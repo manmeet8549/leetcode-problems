@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manmeet8549/leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/manmeet8549/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/manmeet8549/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manmeet8549/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0598-range-addition-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manmeet8549/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
