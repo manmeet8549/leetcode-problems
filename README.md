@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manmeet8549/leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/manmeet8549/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/manmeet8549/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
+| [2747-count-zero-request-servers](https://github.com/manmeet8549/leetcode-problems/tree/master/2747-count-zero-request-servers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manmeet8549/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/manmeet8549/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/manmeet8549/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manmeet8549/leetcode-problems/tree/master/0706-design-hashmap) |
+| [2747-count-zero-request-servers](https://github.com/manmeet8549/leetcode-problems/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/manmeet8549/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/manmeet8549/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manmeet8549/leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [2747-count-zero-request-servers](https://github.com/manmeet8549/leetcode-problems/tree/master/2747-count-zero-request-servers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/manmeet8549/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/manmeet8549/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [2747-count-zero-request-servers](https://github.com/manmeet8549/leetcode-problems/tree/master/2747-count-zero-request-servers) |
 ## Depth-First Search
 |  |
 | ------- |
